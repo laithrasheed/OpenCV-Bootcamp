@@ -1,4 +1,4 @@
-![image](https://github.com/laithrasheed/OpenCV-Bootcamp/blob/main/References/OpenCV_logo_black_.png)
+<img src="https://github.com/laithrasheed/OpenCV-Bootcamp/blob/main/References/OpenCV_logo_black_.png" alt="image" width="400">
 
 # OpenCV-Bootcamp
 
